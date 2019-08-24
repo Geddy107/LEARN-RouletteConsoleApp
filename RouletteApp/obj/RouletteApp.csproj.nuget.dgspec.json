@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Geddy107\\Desktop\\OneDrive\\z---------HW in Progress----------z\\Week 8\\RouletteApp\\RouletteApp\\RouletteApp.csproj": {}
+    "C:\\Users\\Geddy107\\Desktop\\gitRepo\\20190824 RouletteApp\\RouletteApp\\RouletteApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Geddy107\\Desktop\\OneDrive\\z---------HW in Progress----------z\\Week 8\\RouletteApp\\RouletteApp\\RouletteApp.csproj": {
+    "C:\\Users\\Geddy107\\Desktop\\gitRepo\\20190824 RouletteApp\\RouletteApp\\RouletteApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Geddy107\\Desktop\\OneDrive\\z---------HW in Progress----------z\\Week 8\\RouletteApp\\RouletteApp\\RouletteApp.csproj",
+        "projectUniqueName": "C:\\Users\\Geddy107\\Desktop\\gitRepo\\20190824 RouletteApp\\RouletteApp\\RouletteApp.csproj",
         "projectName": "RouletteApp",
-        "projectPath": "C:\\Users\\Geddy107\\Desktop\\OneDrive\\z---------HW in Progress----------z\\Week 8\\RouletteApp\\RouletteApp\\RouletteApp.csproj",
+        "projectPath": "C:\\Users\\Geddy107\\Desktop\\gitRepo\\20190824 RouletteApp\\RouletteApp\\RouletteApp.csproj",
         "packagesPath": "C:\\Users\\Geddy107\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Geddy107\\Desktop\\OneDrive\\z---------HW in Progress----------z\\Week 8\\RouletteApp\\RouletteApp\\obj\\",
+        "outputPath": "C:\\Users\\Geddy107\\Desktop\\gitRepo\\20190824 RouletteApp\\RouletteApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "A:\\Microsoft\\Xamarin\\NuGet\\",
