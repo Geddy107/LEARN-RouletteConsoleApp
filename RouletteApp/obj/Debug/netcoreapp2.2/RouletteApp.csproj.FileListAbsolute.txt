@@ -9,3 +9,9 @@ C:\Users\Geddy107\Desktop\OneDrive\z---------HW in Progress----------z\Week 8\Ro
 C:\Users\Geddy107\Desktop\OneDrive\z---------HW in Progress----------z\Week 8\RouletteApp\RouletteApp\obj\Debug\netcoreapp2.2\RouletteApp.AssemblyInfo.cs
 C:\Users\Geddy107\Desktop\OneDrive\z---------HW in Progress----------z\Week 8\RouletteApp\RouletteApp\obj\Debug\netcoreapp2.2\RouletteApp.dll
 C:\Users\Geddy107\Desktop\OneDrive\z---------HW in Progress----------z\Week 8\RouletteApp\RouletteApp\obj\Debug\netcoreapp2.2\RouletteApp.pdb
+C:\Users\Geddy107\Desktop\gitRepo\20190824 RouletteApp\RouletteApp\obj\Debug\netcoreapp2.2\RouletteApp.csprojAssemblyReference.cache
+C:\Users\Geddy107\Desktop\gitRepo\20190824 RouletteApp\RouletteApp\obj\Debug\netcoreapp2.2\RouletteApp.csproj.CoreCompileInputs.cache
+C:\Users\Geddy107\Desktop\gitRepo\20190824 RouletteApp\RouletteApp\obj\Debug\netcoreapp2.2\RouletteApp.AssemblyInfoInputs.cache
+C:\Users\Geddy107\Desktop\gitRepo\20190824 RouletteApp\RouletteApp\obj\Debug\netcoreapp2.2\RouletteApp.AssemblyInfo.cs
+C:\Users\Geddy107\Desktop\gitRepo\20190824 RouletteApp\RouletteApp\obj\Debug\netcoreapp2.2\RouletteApp.dll
+C:\Users\Geddy107\Desktop\gitRepo\20190824 RouletteApp\RouletteApp\obj\Debug\netcoreapp2.2\RouletteApp.pdb
